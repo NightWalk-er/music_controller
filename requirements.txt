@@ -19,7 +19,7 @@ pytz==2021.1
 requests==2.25.1
 six==1.16.0
 sqlparse==0.4.1
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+#toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 urllib3==1.26.4
 virtualenv==20.4.6
 whitenoise==5.2.0
